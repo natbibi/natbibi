@@ -11,7 +11,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ###### Frameworks & Libraries:
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
