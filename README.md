@@ -23,7 +23,7 @@
 ###### My Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Introducing Popcorn 🍿 - A social media app for shows 📺](https://natalie.hashnode.dev/popcorn)
 <!-- BLOG-POST-LIST:END -->
 
 **** 
