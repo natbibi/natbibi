@@ -35,6 +35,6 @@
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=natbibi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width="338px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natbibi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img align="center" width="304px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natbibi&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
   </div>
