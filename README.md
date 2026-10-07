@@ -27,6 +27,6 @@
 **** 
 
 <div align="center">
-  <img width="400px" src="./profile/stats.svg" />
+  <img width="400px" src="https://github-stats-extended.vercel.app/api?username=natbibi&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=natbibi&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" />
   <img width="304px" src="./profile/top-langs.svg" />
 </div>
